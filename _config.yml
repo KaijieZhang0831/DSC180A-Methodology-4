@@ -1,6 +1,7 @@
 title: "DSC 180A Methodology Assignment 4"
 description: "Kaijie Zhang - UC San Diego Data Science Capstone"
-theme: minima
+theme: jekyll-theme-cayman
+
 author: "Kaijie Zhang"
 email: "kaijiez@ucsd.edu"
 

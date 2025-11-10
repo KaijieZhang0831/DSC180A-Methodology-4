@@ -22,7 +22,7 @@ This phenomenon opens up a rich line of research for understanding how context c
 
 ## **Q2: Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-I plan to extend the theme from Quarter 1 by designing and experimenting with **new information retrieval architectures** aimed at improving the performance of **LLMs as information extractors**.  
+I plan to extend the theme from Quarter 1 by designing and experimenting with **new information retrieval (IR) architectures** aimed at improving the performance of **LLMs as information extractors**.  
 My focus will be on building retrieval pipelines that can mitigate content rot and maintain semantic relevance across longer contexts.
 
 ---
