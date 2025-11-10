@@ -6,7 +6,7 @@ title: DSC 180A Methodology Assignment 4
 # DSC 180A Methodology Assignment 4
 
 **Name:** Kaijie Zhang  
-**Email:** kaijiez@ucsd.edu  
+**Email:** kaz029@ucsd.edu  
 **Section:** B08 – Large Language Models in Healthcare  
 **Instructors:** Aaron Boussina and Karandeep Singh  
 
