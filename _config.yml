@@ -1,4 +1,11 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: "DSC 180A Methodology Assignment 4"
+description: "Kaijie Zhang - UC San Diego Data Science Capstone"
+theme: minima
+author: "Kaijie Zhang"
+email: "kaijiez@ucsd.edu"
 
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
